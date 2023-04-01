@@ -1,0 +1,5 @@
+Hello! this is SabirHira from Bangladesh.
+
+1st time| The sum of the vaiables is: 1010
+2nd time| The sum of the vaiables is: 110
+3nd time| The sum of the vaiables is: 20
