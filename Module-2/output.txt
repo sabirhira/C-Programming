@@ -1,0 +1,14 @@
+Summation: 23
+Subtraction: -17
+Multiplication: 60
+		|Division case-1|
+Division Type-1: 6
+Division Type-2: 6
+Division Type-3: 6.67
+		|Division case-2|
+Division Type-1: 0
+Division Type-2: 0
+Division Type-3: 0.150
+		|Reminder|
+Reminder Type-1: 2
+Reminder Type-2: 3
